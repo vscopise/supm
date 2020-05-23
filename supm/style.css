@@ -1,0 +1,30 @@
+/*
+Theme Name: Supm
+Theme URI: https://www.themeisle.com/
+Description: Template modificado para la Sociedad Uruguaya de Psicología Médica.
+Author: Vicente Scópise
+URI: https://www.themeisle.com/
+Template: hestia    
+Version: 0.1
+*/
+
+.hestia-testimonials  {
+    background-color: #A1E1C3;
+}
+.hestia-testimonials h5.description {
+    color: #3C4858;
+}
+.hestia-testimonials .card.card-testimonial.card-plain {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.hestia-testimonials .card.card-testimonial.card-plain .content {
+    padding: 0 30px;
+}
+.hestia-testimonials.autoridades {
+    padding: 65px 0;
+}
+.hestia-testimonials .row.title {
+    border-top: 1px dashed #444444;
+    margin-top: 20px
+}
